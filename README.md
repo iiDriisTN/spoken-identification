@@ -23,6 +23,7 @@ or just open it in vcs
 
 ## requirements
 you can find it [here](https://github.com/moebg/spoken-digit-recognition/blob/master/requirements.txt) or [here](https://github.com/ravasconcelos/spoken-digits-recognition/blob/master/src/lib_version)
+or just download it from above [here](https://github.com/iiDriisTN/spoken-identification/blob/main/requirement.txt)
 
 ```bash
 #to install requirements
