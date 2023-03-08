@@ -5,7 +5,7 @@
 
 [spoken digit recognition](https://github.com/moebg/spoken-digit-recognition) 
 
-[spoken digit (UTS)](https://github.com/moebg/spoken-digit-recognition) also got this [video](https://www.youtube.com/watch?v=_FXqysbYVGs)
+[spoken digit (UTS)](https://github.com/ravasconcelos/spoken-digits-recognition) also got this [video](https://www.youtube.com/watch?v=_FXqysbYVGs)
 
 
 ## notices
